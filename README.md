@@ -6,3 +6,7 @@ Deep Convolutional Neuronal Networks, Mask R-CNN, Cable-Detection, Disassembly, 
 
 # Walk Trough:
 Please have a look at Thesis.pdf for a extensive discription of this work. 
+
+# Backbone
+During this thesis matterport/MaskR_CNN was used as groundwork. Nearly all code is uploaded without significant changes.
+For futher informations see: https://github.com/matterport/Mask_RCNN
