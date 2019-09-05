@@ -5,8 +5,11 @@ Cables are essential components of any device in the electronic waste sector. Fo
 Deep Convolutional Neuronal Networks, Mask R-CNN, Cable-Detection, Disassembly, E-Waste
 
 # Walk Trough:
-Please have a look at Thesis.pdf for a extensive discription of this work. 
+Please have a look at Thesis.pdf for a extensive discription. 
 
 # Backbone
 During this thesis matterport/MaskR_CNN was used as groundwork. Nearly all code is uploaded without significant changes.
 For futher informations see: https://github.com/matterport/Mask_RCNN
+
+# Dataset
+The used dataset is public on kaggle.com: https://www.kaggle.com/zeuscasio/cable-dataset-annotation
