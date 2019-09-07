@@ -13,3 +13,12 @@ For futher informations see: https://github.com/matterport/Mask_RCNN
 
 # Dataset
 The used dataset is public on kaggle.com: https://www.kaggle.com/zeuscasio/cable-dataset-annotation
+
+# Folder structure
+
+The presented code was combined in one folder called "samples". "samples" was included in Mask R-CNN. Also, the folder "datasets" and "logs" were included in Mask R-CNN. "datasets " included one folder named "cable" in which the three folders from kaggle are placed (train, val, predict).
+Also, a folder "logs" was included in Mask R-Cnn. In this folder, the trained network is placed for detections. 
+
+# Trained network
+
+The trained network is too big (~250 MB) for uploading it to Git Hub.  
