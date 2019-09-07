@@ -21,4 +21,4 @@ Also, a folder "logs" was included in Mask R-Cnn. In this folder, the trained ne
 
 # Trained network
 
-The trained network is too big (~250 MB) for uploading it to Git Hub.  
+The trained network is too big (~250 MB) for uploading it to Git Hub. If it's needed by someone, please let me know. 
